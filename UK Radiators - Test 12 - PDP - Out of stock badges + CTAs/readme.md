@@ -1,19 +1,22 @@
-figma:  https://www.figma.com/design/AM5mY6agNIttdM2tHcagJo/Unbiased-USA---Test-3---Matchflow-email-step---Headline?node-id=0-1&p=f&t=wYx9XUb8584bMyP5-0 
+figma: https://www.figma.com/design/xiy2Jpmq6n0Ob6tvXQRNV0/UK-Radiators---Test-12---PDP---Out-of-stock?node-id=1-282&t=ghejyFH3DnQwp7mO-0 
 
-This is how you go to that targeted page short video:"C:\Users\suraj\Downloads\Videos _ Library _ Loom - 11 September 2026.mp4"
+video: "C:\Users\suraj\Downloads\UK Radiators - Test 12 - PDP - Out of stock badges + CTAs.mp4"
 
-test description:  headline change on email step of USA matchflow
+Test: UK Radiators - Test 12 - PDP - Out of stock badges + CTAs
+
+test description: On out-of-stock PDP pages, redesign the out-of-stock badge/messaging and replace the standard "Add to basket" CTA with a "Pre-order now" button that still submits the existing (hidden) add-to-cart form, so out-of-stock items can still be purchased on backorder.
+- v1: Out-of-stock badge redesign + "Pre-order now" CTA button (replaces the default Add to basket button area on out-of-stock products). Button copy reflects an estimated back-in-stock date when available, otherwise falls back to "Pre-order now (sold out)".
+- v2: Same as v1, plus adds an email capture embed below the CTA area for users to be notified when the product is back in stock.
 
 Preview link: 
-v0 https://v2.unbiased.com/inquiry/financial-advisor/primary-areas?cro_mode=qa&_conv_eforce=100052774.1000257195
-v1 https://v2.unbiased.com/inquiry/financial-advisor/primary-areas?cro_mode=qa&_conv_eforce=100052774.1000257196 
-v2 https://v2.unbiased.com/inquiry/financial-advisor/primary-areas?cro_mode=qa&_conv_eforce=100052774.1000257197  
-v3 https://v2.unbiased.com/inquiry/financial-advisor/primary-areas?cro_mode=qa&_conv_eforce=100052774.1000257198
-v4 https://v2.unbiased.com/inquiry/financial-advisor/primary-areas?cro_mode=qa&_conv_eforce=100052774.1000257199
+v0 (control) https://ukradiators.com/products/alpha-black-column-radiator-h500mm-x-w1340mm-4-column-feet-included?cro_mode=qa&_conv_eforce=100052798.1000257266
+v1 https://ukradiators.com/products/alpha-black-column-radiator-h500mm-x-w1340mm-4-column-feet-included?cro_mode=qa&_conv_eforce=100052798.1000257267 
+v2 https://ukradiators.com/products/alpha-black-column-radiator-h500mm-x-w1340mm-4-column-feet-included?cro_mode=qa&_conv_eforce=100052798.1000257268
+
 
 
 URL targeting
-Unbiased.com email step match flow
+Product (PDP) pages on ukradiators.com that are out of stock. (TBD — confirm the exact targeting rule/segment configured in the test tool.)
 
 
 Audience targeting
