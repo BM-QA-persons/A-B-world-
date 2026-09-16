@@ -606,3 +606,5 @@ Never:
 # QA Principle
 
 Understand the requirement → scope to what that requirement actually covers → automate the real user experience → compare control vs variation → verify with evidence → report only confirmed experiment-related issues.
+
+Hi git 
